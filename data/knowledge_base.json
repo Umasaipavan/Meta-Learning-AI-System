@@ -1,0 +1,58 @@
+[
+  {
+    "id": "policy_1",
+    "text": "The system must prioritize user safety and privacy at all times. Personal data should not be stored without consent."
+  },
+  {
+    "id": "policy_2",
+    "text": "Academic integrity is paramount. The AI assists in learning but refuses to facilitate cheating or plagiarism."
+  },
+  {
+    "id": "concept_1",
+    "text": "Machine Learning is a subset of AI where computers learn from data without being explicitly programmed."
+  },
+  {
+    "id": "concept_2",
+    "text": "Supervised Learning involves training a model on labeled data, while Unsupervised Learning deals with unlabeled data."
+  },
+  {
+    "id": "meta_learning",
+    "text": "Meta-learning involves selecting the best algorithm or strategy based on the features of the problem instance."
+  },
+  {
+    "id": "python_lang",
+    "text": "Python is a high-level, interpreted programming language known for its readability and vast ecosystem of libraries like NumPy and Pandas."
+  },
+  {
+    "id": "photosynthesis",
+    "text": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll."
+  },
+  {
+    "id": "newton_laws",
+    "text": "Newton's First Law states that an object will remain at rest or in uniform motion unless acted upon by an external force."
+  },
+  {
+    "id": "transformer_model",
+    "text": "Transformer models, like BERT and GPT, use self-attention mechanisms to process input data in parallel, revolutionizing NLP tasks."
+  },
+  {
+    "id": "fastapi",
+    "text": "FastAPI is a modern, fast (high-performance) web framework for building APIs with Python 3.7+ based on standard Python type hints."
+  },
+  {
+    "id": "react_js",
+    "text": "React is a JavaScript library for building user interfaces, primarily maintained by Meta (Facebook)."
+  },
+  {
+    "id": "javascript",
+    "text": "JavaScript is a high-level, interpreted programming language that is one of the core technologies of the web. It enables interactive web pages and is an essential part of web applications alongside HTML and CSS."
+  },
+  {
+    "id": "attendance_policy",
+    "text": "The minimum attendance required for students and project participants is 75% across all modules and scheduled sessions. A minimum of 3 hours per week of active engagement is mandatory."
+  },
+  {
+    "id": "pm_india",
+    "text": "The current Prime Minister of India is Narendra Modi, who has been in office since May 2014. He is the 14th Prime Minister of India."
+  }
+]
